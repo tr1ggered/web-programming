@@ -1,0 +1,394 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mxfile host="app.diagrams.net" type="device">
+  <diagram name="Полная сеть Петри — снятие наличных" id="0">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1050" pageHeight="1320">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P0" value="●" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="127" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P0-id" value="P0" style="text;html=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="177" y="99" width="66" height="24" />
+        </mxCell>
+        <mxCell id="P1" value="P1" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="307" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P2" value="P2" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="487" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P3" value="P3" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="667" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P4" value="P4" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="847" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P5" value="P5" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="187" y="1027" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P6" value="P6" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="1027" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P7" value="P7" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="847" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P8" value="P8" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="667" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P9" value="P9" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="487" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P10" value="P10" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="307" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P11" value="P11" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="727" y="127" width="46" height="46" />
+        </mxCell>
+        <mxCell id="T0" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="178.0" y="234.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T1" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="178.0" y="414.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T2" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="178.0" y="594.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T3" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="178.0" y="774.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T4" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="178.0" y="954.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T5" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="474.0" y="1160.0" width="12" height="60" />
+        </mxCell>
+        <mxCell id="T6" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="718.0" y="954.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T7" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="718.0" y="774.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T8" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="718.0" y="594.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T9" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="718.0" y="414.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T10" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="718.0" y="234.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="P12" value="P12" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="467" y="427" width="46" height="46" />
+        </mxCell>
+        <mxCell id="T11" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="344.0" y="480.0" width="12" height="60" />
+        </mxCell>
+        <mxCell id="T12" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="458.0" y="654.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T13" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="449.0" y="980.0" width="12" height="60" />
+        </mxCell>
+        <mxCell id="edge0" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P0" target="T0">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge1" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T0" target="P1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge2" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P1" target="T1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge3" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T1" target="P2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge4" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P2" target="T2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge5" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T2" target="P3">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge6" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P3" target="T3">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge7" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T3" target="P4">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge8" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P4" target="T4">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge9" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T4" target="P5">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge10" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P5" target="T5">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="210" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge11" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T5" target="P6">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="750" y="1190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge12" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P6" target="T6">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge13" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T6" target="P7">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge14" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P7" target="T7">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge15" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T7" target="P8">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge16" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P8" target="T8">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge17" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T8" target="P9">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge18" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P9" target="T9">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge19" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T9" target="P10">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge20" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P10" target="T10">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge21" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T10" target="P11">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge22" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P2" target="T11">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge23" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T11" target="P12">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="490" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge24" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P12" target="T12">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="585" y="450" />
+              <mxPoint x="585" y="635" />
+              <mxPoint x="490" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge25" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T12" target="P3">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="490" y="710" />
+              <mxPoint x="250" y="710" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge26" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P5" target="T13">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="300" y="1050" />
+              <mxPoint x="300" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edge27" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T13" target="P4">
+          <mxGeometry as="geometry" relative="1">
+            <Array as="points">
+              <mxPoint x="520" y="1010" />
+              <mxPoint x="520" y="870" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="label0" value="Полная сеть Петри — снятие наличных" style="text;html=0;whiteSpace=wrap;fontSize=23;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="20.0" y="-2" width="1010" height="64" />
+        </mxCell>
+        <mxCell id="label1" value="● — начальный маркер; P — позиции; T — переходы. Основной путь: вниз слева, вверх справа." style="text;html=0;whiteSpace=wrap;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="20.0" y="31" width="1010" height="64" />
+        </mxCell>
+        <mxCell id="label2" value="Свободный банкомат найден" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="118" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label3" value="Карта принята; ожидается PIN" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="298" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label4" value="Первый PIN проверен" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="478" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label5" value="Открыто меню операций" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="658" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label6" value="Выбрано снятие; ожидается сумма" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="838" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label7" value="Сумма проверена" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="7.5" y="1018" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label8" value="Снятие разрешено" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="1018" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label9" value="Карта возвращена банкоматом" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="838" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label10" value="Карта забрана" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="658" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label11" value="Наличные выданы" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="478" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label12" value="Деньги забраны и пересчитаны" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="298" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label13" value="Выход из отделения с деньгами" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="562.5" y="118" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label14" value="T0: Подойти и вставить карту" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="260.0" y="208.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label15" value="T1: Ввести PIN; проверить PIN" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="260.0" y="388.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label16" value="T2: PIN верен: открыть меню" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="260.0" y="568.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label17" value="T3: Выбрать снятие наличных" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="260.0" y="748.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label18" value="T4: Ввести сумму; проверить её" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="260.0" y="928.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label19" value="T5: Сумма допустима: разрешить снятие" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="390.0" y="1238" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label20" value="T6: Завершить операцию; вернуть карту" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="800.0" y="928.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label21" value="T7: Забрать карту" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="800.0" y="748.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label22" value="T8: Выдать наличные" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="800.0" y="568.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label23" value="T9: Забрать и пересчитать деньги" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="800.0" y="388.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label24" value="T10: Убрать деньги и карту; выйти" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="800.0" y="208.0" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label25" value="Повторный ввод PIN разрешён" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="402.5" y="350" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label26" value="T11: Первый PIN неверен" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="265.0" y="522" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label27" value="T12: Повторно ввести верный PIN" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="415.0" y="562" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label28" value="T13: Сумма недопустима: запросить другую" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="380.0" y="1048" width="180" height="64" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="Краткая сеть Петри — снятие наличных" id="1">
+    <mxGraphModel grid="1" gridSize="10" page="1" pageScale="1" pageWidth="1000" pageHeight="970">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="P0" value="●" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="317" y="127" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P0-id" value="P0" style="text;html=0;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="307" y="99" width="66" height="24" />
+        </mxCell>
+        <mxCell id="P1" value="P1" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="317" y="307" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P2" value="P2" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="317" y="487" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P3" value="P3" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="317" y="667" width="46" height="46" />
+        </mxCell>
+        <mxCell id="P4" value="P4" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;ellipse;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="317" y="847" width="46" height="46" />
+        </mxCell>
+        <mxCell id="T0" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="308.0" y="234.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T1" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="308.0" y="414.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T2" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="308.0" y="594.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="T3" value="" style="whiteSpace=wrap;html=0;fontFamily=Helvetica;fontSize=17;strokeWidth=2;fillColor=#ffffff;strokeColor=#334155;fillColor=#334155;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="308.0" y="774.0" width="64" height="12" />
+        </mxCell>
+        <mxCell id="edge0" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P0" target="T0">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge1" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T0" target="P1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge2" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P1" target="T1">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge3" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T1" target="P2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge4" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P2" target="T2">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge5" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T2" target="P3">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge6" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="P3" target="T3">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="edge7" style="edgeStyle=none;html=0;endArrow=block;strokeColor=#334155;strokeWidth=2;" edge="1" parent="1" source="T3" target="P4">
+          <mxGeometry as="geometry" relative="1" />
+        </mxCell>
+        <mxCell id="label0" value="Краткая сеть Петри — снятие наличных" style="text;html=0;whiteSpace=wrap;fontSize=23;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="20.0" y="-2" width="960" height="64" />
+        </mxCell>
+        <mxCell id="label1" value="Начальная маркировка: один маркер в P0. Показан успешный сценарий." style="text;html=0;whiteSpace=wrap;fontSize=16;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="20.0" y="31" width="960" height="64" />
+        </mxCell>
+        <mxCell id="label2" value="Банкомат найден" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62.5" y="118" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label3" value="Клиент авторизован" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62.5" y="298" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label4" value="Снятие согласовано" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62.5" y="478" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label5" value="Карта и деньги получены" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62.5" y="658" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label6" value="Клиент вышел с деньгами" style="text;html=0;whiteSpace=wrap;fontSize=18;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="62.5" y="838" width="175" height="64" />
+        </mxCell>
+        <mxCell id="label7" value="T0: Вставить карту и пройти проверку PIN" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="540.0" y="208" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label8" value="T1: Выбрать снятие и допустимую сумму" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="540.0" y="388" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label9" value="T2: Завершить операцию, забрать карту и наличные" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="540.0" y="568" width="180" height="64" />
+        </mxCell>
+        <mxCell id="label10" value="T3: Пересчитать деньги; убрать карту и деньги; выйти" style="text;html=0;whiteSpace=wrap;fontSize=17;align=center;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry as="geometry" x="540.0" y="748" width="180" height="64" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
