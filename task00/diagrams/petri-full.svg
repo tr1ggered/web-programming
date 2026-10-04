@@ -1,0 +1,224 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1050" height="1320" viewBox="0 0 1050 1320">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#334155"/></marker><marker id="open-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#334155" stroke-width="1.5"/></marker></defs>
+<rect width="1050" height="1320" fill="white"/>
+<polyline points="210,173 210,234.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,246.0 210,307" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,353 210,414.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,426.0 210,487" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,533 210,594.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,606.0 210,667" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,713 210,774.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,786.0 210,847" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,893 210,954.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,966.0 210,1027" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="210,1073 210,1190 474,1190" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="486,1190 750,1190 750,1073" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,1027 750,966.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,954.0 750,893" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,847 750,786.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,774.0 750,713" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,667 750,606.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,594.0 750,533" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,487 750,426.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,414.0 750,353" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,307 750,246.0" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="750,234.0 750,173" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="233,510 344,510" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="356,510 490,510 490,473" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="513,450 585,450 585,635 490,635 490,654" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="490,666 490,710 250,710 233,690" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="233,1050 300,1050 300,1010 449,1010" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="461,1010 520,1010 520,870 233,870" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<ellipse cx="210.0" cy="150.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<circle cx="210.0" cy="150.0" r="6" fill="#111827"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="15" fill="#0f172a">
+<tspan x="210.0" y="114.0" dominant-baseline="middle">P0</tspan>
+</text>
+<ellipse cx="210.0" cy="330.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="210.0" y="330.0" dominant-baseline="middle">P1</tspan>
+</text>
+<ellipse cx="210.0" cy="510.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="210.0" y="510.0" dominant-baseline="middle">P2</tspan>
+</text>
+<ellipse cx="210.0" cy="690.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="210.0" y="690.0" dominant-baseline="middle">P3</tspan>
+</text>
+<ellipse cx="210.0" cy="870.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="210.0" y="870.0" dominant-baseline="middle">P4</tspan>
+</text>
+<ellipse cx="210.0" cy="1050.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="210.0" y="1050.0" dominant-baseline="middle">P5</tspan>
+</text>
+<ellipse cx="750.0" cy="1050.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="1050.0" dominant-baseline="middle">P6</tspan>
+</text>
+<ellipse cx="750.0" cy="870.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="870.0" dominant-baseline="middle">P7</tspan>
+</text>
+<ellipse cx="750.0" cy="690.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="690.0" dominant-baseline="middle">P8</tspan>
+</text>
+<ellipse cx="750.0" cy="510.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="510.0" dominant-baseline="middle">P9</tspan>
+</text>
+<ellipse cx="750.0" cy="330.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="330.0" dominant-baseline="middle">P10</tspan>
+</text>
+<ellipse cx="750.0" cy="150.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="750.0" y="150.0" dominant-baseline="middle">P11</tspan>
+</text>
+<rect x="178.0" y="234.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="178.0" y="414.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="178.0" y="594.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="178.0" y="774.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="178.0" y="954.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="474.0" y="1160.0" width="12" height="60" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="718.0" y="954.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="718.0" y="774.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="718.0" y="594.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="718.0" y="414.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="718.0" y="234.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<ellipse cx="490.0" cy="450.0" rx="23.0" ry="23.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="490.0" y="450.0" dominant-baseline="middle">P12</tspan>
+</text>
+<rect x="344.0" y="480.0" width="12" height="60" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="458.0" y="654.0" width="64" height="12" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<rect x="449.0" y="980.0" width="12" height="60" rx="0" fill="#334155" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#0f172a">
+<tspan x="525.0" y="30.0" dominant-baseline="middle">Полная сеть Петри — снятие наличных</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="525.0" y="63.0" dominant-baseline="middle">● — начальный маркер; P — позиции; T — переходы. Основной путь: вниз слева, вверх справа.</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="127.68" dominant-baseline="middle">Свободный</tspan>
+<tspan x="95" y="150.0" dominant-baseline="middle">банкомат</tspan>
+<tspan x="95" y="172.32" dominant-baseline="middle">найден</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="318.84" dominant-baseline="middle">Карта принята;</tspan>
+<tspan x="95" y="341.15999999999997" dominant-baseline="middle">ожидается PIN</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="498.84" dominant-baseline="middle">Первый PIN</tspan>
+<tspan x="95" y="521.16" dominant-baseline="middle">проверен</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="678.84" dominant-baseline="middle">Открыто меню</tspan>
+<tspan x="95" y="701.1600000000001" dominant-baseline="middle">операций</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="836.52" dominant-baseline="middle">Выбрано</tspan>
+<tspan x="95" y="858.84" dominant-baseline="middle">снятие;</tspan>
+<tspan x="95" y="881.16" dominant-baseline="middle">ожидается</tspan>
+<tspan x="95" y="903.48" dominant-baseline="middle">сумма</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="95" y="1038.84" dominant-baseline="middle">Сумма</tspan>
+<tspan x="95" y="1061.1599999999999" dominant-baseline="middle">проверена</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="1038.84" dominant-baseline="middle">Снятие</tspan>
+<tspan x="650" y="1061.1599999999999" dominant-baseline="middle">разрешено</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="847.68" dominant-baseline="middle">Карта</tspan>
+<tspan x="650" y="870.0" dominant-baseline="middle">возвращена</tspan>
+<tspan x="650" y="892.3199999999999" dominant-baseline="middle">банкоматом</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="690.0" dominant-baseline="middle">Карта забрана</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="498.84" dominant-baseline="middle">Наличные</tspan>
+<tspan x="650" y="521.16" dominant-baseline="middle">выданы</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="318.84" dominant-baseline="middle">Деньги забраны</tspan>
+<tspan x="650" y="341.15999999999997" dominant-baseline="middle">и пересчитаны</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="650" y="127.68" dominant-baseline="middle">Выход из</tspan>
+<tspan x="650" y="150.0" dominant-baseline="middle">отделения с</tspan>
+<tspan x="650" y="172.32" dominant-baseline="middle">деньгами</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="350" y="229.46" dominant-baseline="middle">T0: Подойти и</tspan>
+<tspan x="350" y="250.54000000000002" dominant-baseline="middle">вставить карту</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="350" y="409.46" dominant-baseline="middle">T1: Ввести PIN;</tspan>
+<tspan x="350" y="430.53999999999996" dominant-baseline="middle">проверить PIN</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="350" y="589.46" dominant-baseline="middle">T2: PIN верен:</tspan>
+<tspan x="350" y="610.5400000000001" dominant-baseline="middle">открыть меню</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="350" y="769.46" dominant-baseline="middle">T3: Выбрать</tspan>
+<tspan x="350" y="790.5400000000001" dominant-baseline="middle">снятие наличных</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="350" y="938.92" dominant-baseline="middle">T4: Ввести</tspan>
+<tspan x="350" y="960.0" dominant-baseline="middle">сумму; проверить</tspan>
+<tspan x="350" y="981.0799999999999" dominant-baseline="middle">её</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="480" y="1248.92" dominant-baseline="middle">T5: Сумма</tspan>
+<tspan x="480" y="1270.0" dominant-baseline="middle">допустима:</tspan>
+<tspan x="480" y="1291.0800000000002" dominant-baseline="middle">разрешить снятие</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="890" y="938.92" dominant-baseline="middle">T6: Завершить</tspan>
+<tspan x="890" y="960.0" dominant-baseline="middle">операцию;</tspan>
+<tspan x="890" y="981.0799999999999" dominant-baseline="middle">вернуть карту</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="890" y="769.46" dominant-baseline="middle">T7: Забрать</tspan>
+<tspan x="890" y="790.5400000000001" dominant-baseline="middle">карту</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="890" y="589.46" dominant-baseline="middle">T8: Выдать</tspan>
+<tspan x="890" y="610.5400000000001" dominant-baseline="middle">наличные</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="890" y="398.92" dominant-baseline="middle">T9: Забрать и</tspan>
+<tspan x="890" y="420.0" dominant-baseline="middle">пересчитать</tspan>
+<tspan x="890" y="441.08000000000004" dominant-baseline="middle">деньги</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="890" y="218.92000000000002" dominant-baseline="middle">T10: Убрать</tspan>
+<tspan x="890" y="240.0" dominant-baseline="middle">деньги и карту;</tspan>
+<tspan x="890" y="261.08000000000004" dominant-baseline="middle">выйти</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="18" fill="#0f172a">
+<tspan x="490" y="370.84" dominant-baseline="middle">Повторный ввод</tspan>
+<tspan x="490" y="393.15999999999997" dominant-baseline="middle">PIN разрешён</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="355" y="543.46" dominant-baseline="middle">T11: Первый PIN</tspan>
+<tspan x="355" y="564.5400000000001" dominant-baseline="middle">неверен</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="505" y="572.92" dominant-baseline="middle">T12: Повторно</tspan>
+<tspan x="505" y="594.0" dominant-baseline="middle">ввести верный</tspan>
+<tspan x="505" y="615.0799999999999" dominant-baseline="middle">PIN</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="470" y="1058.92" dominant-baseline="middle">T13: Сумма</tspan>
+<tspan x="470" y="1080.0" dominant-baseline="middle">недопустима:</tspan>
+<tspan x="470" y="1101.0800000000002" dominant-baseline="middle">запросить другую</tspan>
+</text>
+</svg>
