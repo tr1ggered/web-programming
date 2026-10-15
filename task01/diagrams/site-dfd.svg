@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="970" viewBox="0 0 1200 970">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#334155"/></marker><marker id="open-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#334155" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="970" fill="white"/>
+<polyline points="255,177 410,177" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="410,243 255,243" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="680,181 875,181" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="875,249 680,249" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="970,290 970,445" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1080,445 1080,290" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="545,280 545,620" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="150,260 150,690 410,690" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="680,690 860,690" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="1000,745 1000,870 55,870 55,260" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="45" y="150" width="210" height="110" rx="0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="150.0" y="205.0" dominant-baseline="middle">Пользователь</tspan>
+</text>
+<ellipse cx="545.0" cy="210.0" rx="135.0" ry="70.0" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="545.0" y="199.46" dominant-baseline="middle">1. Отобразить сайт</tspan>
+<tspan x="545.0" y="220.54000000000002" dominant-baseline="middle">(браузер)</tspan>
+</text>
+<ellipse cx="1010.0" cy="220.0" rx="135.0" ry="70.0" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="1010.0" y="209.46" dominant-baseline="middle">2. Выдать ресурс</tspan>
+<tspan x="1010.0" y="230.54000000000002" dominant-baseline="middle">(веб-сервер)</tspan>
+</text>
+<path d="M875 445 H1145 M875 545 H1145" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="1010.0" y="484.46" dominant-baseline="middle">D1: файлы сайта</tspan>
+<tspan x="1010.0" y="505.53999999999996" dominant-baseline="middle">HTML и фото</tspan>
+</text>
+<ellipse cx="545.0" cy="690.0" rx="135.0" ry="70.0" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="545.0" y="679.46" dominant-baseline="middle">3. Обработать почтовую</tspan>
+<tspan x="545.0" y="700.5400000000001" dominant-baseline="middle">ссылку</tspan>
+</text>
+<ellipse cx="1002.5" cy="690.0" rx="142.5" ry="55.0" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="1002.5" y="679.46" dominant-baseline="middle">4. Создать черновик</tspan>
+<tspan x="1002.5" y="700.5400000000001" dominant-baseline="middle">(почтовый обработчик)</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#0f172a">
+<tspan x="600.0" y="30.0" dominant-baseline="middle">DFD — данные сайта-визитки</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="600.0" y="63.0" dominant-baseline="middle">DFD показывает передачу данных, а не последовательность действий.</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="330" y="130.0" dominant-baseline="middle">URL страницы</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="335" y="282.08" dominant-baseline="middle">Содержимое</tspan>
+<tspan x="335" y="301.91999999999996" dominant-baseline="middle">страницы</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="775" y="110.08" dominant-baseline="middle">HTTP GET: путь</tspan>
+<tspan x="775" y="129.92" dominant-baseline="middle">ресурса</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="777" y="296.08" dominant-baseline="middle">HTTP: статус,</tspan>
+<tspan x="777" y="315.91999999999996" dominant-baseline="middle">HTML / фото</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="886" y="372.0" dominant-baseline="middle">Путь файла</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="1100" y="372.0" dominant-baseline="middle">Байты файла</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="640" y="444.08" dominant-baseline="middle">Адрес email из</tspan>
+<tspan x="640" y="463.91999999999996" dominant-baseline="middle">HTML</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="270" y="629.08" dominant-baseline="middle">Выбор почтовой</tspan>
+<tspan x="270" y="648.9200000000001" dominant-baseline="middle">ссылки</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="770" y="617.08" dominant-baseline="middle">URI mailto с</tspan>
+<tspan x="770" y="636.9200000000001" dominant-baseline="middle">адресом</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="540" y="886.16" dominant-baseline="middle">Черновик письма</tspan>
+<tspan x="540" y="906.0" dominant-baseline="middle">с заполненным</tspan>
+<tspan x="540" y="925.8399999999999" dominant-baseline="middle">получателем</tspan>
+</text>
+</svg>

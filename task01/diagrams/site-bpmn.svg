@@ -1,0 +1,91 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="970" viewBox="0 0 1200 970">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse"><path d="M0 0 L10 5 L0 10z" fill="#334155"/></marker><marker id="open-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0 L10 5 L0 10" fill="none" stroke="#334155" stroke-width="1.5"/></marker></defs>
+<rect width="1200" height="970" fill="white"/>
+<rect x="25" y="260" width="1150" height="480" fill="#f8fafc" stroke="#64748b" stroke-width="2"/>
+<polyline points="101,383 155,383" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="420,390 470,390" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="675,390 745,390" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="795,390 1000,390" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="770,415 770,560" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="885,608 1000,608" fill="none" stroke="#334155" stroke-width="2" marker-end="url(#arrow)"/>
+<polyline points="240,340 240,140 340,140" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#open-arrow)"/>
+<circle cx="240" cy="340" r="4" fill="white" stroke="#334155"/>
+<polyline points="550,190 550,225 350,225 350,340" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#open-arrow)"/>
+<circle cx="550" cy="190" r="4" fill="white" stroke="#334155"/>
+<polyline points="780,655 780,820" fill="none" stroke="#334155" stroke-width="2" stroke-dasharray="7 5" marker-end="url(#open-arrow)"/>
+<circle cx="780" cy="655" r="4" fill="white" stroke="#334155"/>
+<rect x="340" y="90" width="440" height="100" rx="0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="560.0" y="129.46" dominant-baseline="middle">Веб-сервер</tspan>
+<tspan x="560.0" y="150.54000000000002" dominant-baseline="middle">HTTP: HTML и изображение</tspan>
+</text>
+<ellipse cx="83.0" cy="383.0" rx="18.0" ry="18.0" fill="white" stroke="#334155" stroke-width="2"/>
+<rect x="155" y="340" width="265" height="100" rx="12" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="287.5" y="379.46" dominant-baseline="middle">Загрузить HTML и фото</tspan>
+<tspan x="287.5" y="400.53999999999996" dominant-baseline="middle">по HTTP</tspan>
+</text>
+<rect x="279.5" y="420" width="16" height="16" fill="white" stroke="#334155"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="287.5" y="428.0" dominant-baseline="middle">+</tspan>
+</text>
+<rect x="470" y="350" width="205" height="80" rx="12" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="572.5" y="379.46" dominant-baseline="middle">Отобразить</tspan>
+<tspan x="572.5" y="400.53999999999996" dominant-baseline="middle">страницу</tspan>
+</text>
+<polygon points="770.0,365 795,390.0 770.0,415 745,390.0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="770.0" y="390.0" dominant-baseline="middle">×</tspan>
+</text>
+<ellipse cx="1018.0" cy="390.0" rx="18.0" ry="18.0" fill="white" stroke="#334155" stroke-width="4"/>
+<rect x="675" y="560" width="210" height="95" rx="12" fill="#eff6ff" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="780.0" y="596.96" dominant-baseline="middle">Открыть ссылку</tspan>
+<tspan x="780.0" y="618.0400000000001" dominant-baseline="middle">mailto</tspan>
+</text>
+<ellipse cx="1018.0" cy="608.0" rx="18.0" ry="18.0" fill="white" stroke="#334155" stroke-width="4"/>
+<rect x="620" y="820" width="420" height="95" rx="0" fill="white" stroke="#334155" stroke-width="2"/>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="830.0" y="856.96" dominant-baseline="middle">Почтовый обработчик</tspan>
+<tspan x="830.0" y="878.0400000000001" dominant-baseline="middle">Создаёт черновик письма</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="23" fill="#0f172a">
+<tspan x="600.0" y="30.0" dominant-baseline="middle">BPMN — открытие сайта и почтовой ссылки</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="600.0" y="63.0" dominant-baseline="middle">Обмен с внешними участниками показан пунктирными потоками сообщений.</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="20" fill="#0f172a">
+<tspan x="955" y="289.0" dominant-baseline="middle">Пользователь и браузер</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="82" y="435.0" dominant-baseline="middle">Открыть URL</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="770" y="322.0" dominant-baseline="middle">Написать автору?</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="1018" y="427.46" dominant-baseline="middle">Просмотр</tspan>
+<tspan x="1018" y="448.53999999999996" dominant-baseline="middle">завершён</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="17" fill="#0f172a">
+<tspan x="1020" y="654.46" dominant-baseline="middle">Переход к почтовому</tspan>
+<tspan x="1020" y="675.5400000000001" dominant-baseline="middle">обработчику</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="890" y="363.0" dominant-baseline="middle">Нет</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="805" y="485.0" dominant-baseline="middle">Да</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="220" y="225.0" dominant-baseline="middle">HTTP GET</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="460" y="247.0" dominant-baseline="middle">Ответы HTTP</tspan>
+</text>
+<text text-anchor="middle" font-family="DejaVu Sans, sans-serif" font-size="16" fill="#0f172a">
+<tspan x="900" y="780.0" dominant-baseline="middle">URI mailto</tspan>
+</text>
+</svg>
