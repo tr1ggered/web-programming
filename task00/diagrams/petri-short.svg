@@ -1,116 +1,119 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1560" viewBox="0 0 1200 1560">
-<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L10 4 L0 8 Z" fill="black"/></marker></defs>
-<rect width="100%" height="100%" fill="white"/>
-<polyline points="130.00,100.00 218.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="382.00,100.00 458.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="622.00,100.00 718.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="800.00,182.00 800.00,238.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="728.01,359.27 585.50,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="545.49,388.23 578.00,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="580.00,443.00 580.00,468.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="872.35,358.59 1019.38,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="1045.83,394.54 1026.38,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="1024.86,443.00 1023.72,468.08" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="1102.00,550.00 1170.00,550.00 1170.00,210.00 930.00,210.00 862.60,267.03" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="580.00,632.00 580.00,698.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="506.08,815.48 336.25,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="311.54,855.69 328.75,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="330.00,903.00 330.00,928.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="654.70,813.83 838.38,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="865.83,854.54 846.38,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="844.86,903.00 843.72,928.08" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="922.00,1010.00 1120.00,1010.00 1120.00,665.00 710.00,665.00 641.42,725.67" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="330.00,1092.00 330.00,1128.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="411.98,1211.58 457.00,1212.44" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="90.00,1292.00 90.00,1340.00 420.00,1340.00 457.00,1222.06" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="463.00,1212.44 498.02,1211.71" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="662.00,1210.00 738.00,1210.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="902.00,1210.00 978.00,1210.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="1060.00,1292.00 1060.00,1368.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="978.00,1450.00 902.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<polyline points="738.00,1450.00 620.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
-<rect x="450" y="437" width="260" height="6" fill="black"/>
-<rect x="910" y="437" width="230" height="6" fill="black"/>
-<rect x="200" y="897" width="260" height="6" fill="black"/>
-<rect x="710" y="897" width="270" height="6" fill="black"/>
-<rect x="457" y="1140" width="6" height="145" fill="black"/>
-<circle cx="90" cy="100" r="40" stroke="black" stroke-width="2" fill="white"/>
-<polygon points="78,90 102,90 90,112" fill="black"/>
-<text x="90" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="black">Начало</text>
-<circle cx="300" cy="100" r="82" stroke="black" stroke-width="2" fill="white"/>
-<circle cx="300" cy="53" r="8" fill="black"/>
-<text x="300" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₁</text>
-<circle cx="540" cy="100" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="532" y="45" width="16" height="16" fill="black"/>
-<text x="540" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₁</text>
-<circle cx="800" cy="100" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="792" y="45" width="16" height="16" fill="black"/>
-<text x="800" y="113.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₂</text>
-<circle cx="800" cy="320" r="82" stroke="black" stroke-width="2" fill="white"/>
-<circle cx="800" cy="273" r="8" fill="black"/>
-<text x="800" y="333.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₂</text>
-<circle cx="500" cy="320" r="82" stroke="black" stroke-width="2" fill="white"/>
-<text x="500" y="325.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">p₁</text>
-<circle cx="1080" cy="320" r="82" stroke="black" stroke-width="2" fill="white"/>
-<text x="1080" y="325.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">¬p₁</text>
-<circle cx="1020" cy="550" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="1012" y="495" width="16" height="16" fill="black"/>
-<text x="1020" y="563.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₃</text>
-<circle cx="580" cy="550" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="572" y="495" width="16" height="16" fill="black"/>
-<text x="580" y="563.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₄</text>
-<circle cx="580" cy="780" r="82" stroke="black" stroke-width="2" fill="white"/>
-<circle cx="580" cy="733" r="8" fill="black"/>
-<text x="580" y="793.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₃</text>
-<circle cx="280" cy="780" r="82" stroke="black" stroke-width="2" fill="white"/>
-<text x="280" y="785.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">p₂</text>
-<circle cx="900" cy="780" r="82" stroke="black" stroke-width="2" fill="white"/>
-<text x="900" y="785.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">¬p₂</text>
-<circle cx="840" cy="1010" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="832" y="955" width="16" height="16" fill="black"/>
-<text x="840" y="1023.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₅</text>
-<circle cx="330" cy="1010" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="322" y="955" width="16" height="16" fill="black"/>
-<text x="330" y="1023.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₆</text>
-<circle cx="330" cy="1210" r="82" stroke="black" stroke-width="2" fill="white"/>
-<circle cx="330" cy="1163" r="8" fill="black"/>
-<text x="330" y="1223.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₄</text>
-<circle cx="90" cy="1210" r="82" stroke="black" stroke-width="2" fill="white"/>
-<text x="90" y="1215.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">p₃</text>
-<circle cx="580" cy="1210" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="572" y="1155" width="16" height="16" fill="black"/>
-<text x="580" y="1223.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₇</text>
-<circle cx="820" cy="1210" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="812" y="1155" width="16" height="16" fill="black"/>
-<text x="820" y="1223.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₈</text>
-<circle cx="1060" cy="1210" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="1052" y="1155" width="16" height="16" fill="black"/>
-<text x="1060" y="1223.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₉</text>
-<circle cx="1060" cy="1450" r="82" stroke="black" stroke-width="2" fill="white"/>
-<rect x="1052" y="1395" width="16" height="16" fill="black"/>
-<text x="1060" y="1463.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₁₀</text>
-<circle cx="820" cy="1450" r="82" stroke="black" stroke-width="2" fill="white"/>
-<circle cx="820" cy="1403" r="8" fill="black"/>
-<text x="820" y="1463.0" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₅</text>
-<circle cx="580" cy="1450" r="40" stroke="black" stroke-width="2" fill="white"/>
-<polygon points="568,1460 592,1460 580,1438" fill="black"/>
-<text x="580" y="1517" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="black">Конец</text>
-<circle cx="876" cy="246" r="8" fill="black"/>
-<circle cx="892" cy="246" r="8" fill="black"/>
-<circle cx="666" cy="700" r="8" fill="black"/>
-<circle cx="682" cy="700" r="8" fill="black"/>
-<text x="35" y="270" text-anchor="start" font-family="Arial, sans-serif" font-size="23" fill="black">Условные обозначения</text>
-<polygon points="41,305 65,305 53,327" fill="black"/>
-<text x="85" y="322" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">начало процесса</text>
-<polygon points="41,373 65,373 53,351" fill="black"/>
-<text x="85" y="370" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">конец процесса</text>
-<circle cx="53" cy="411" r="8" fill="black"/>
-<text x="85" y="418" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">устойчивое состояние</text>
-<circle cx="45" cy="459" r="8" fill="black"/>
-<circle cx="61" cy="459" r="8" fill="black"/>
-<text x="85" y="466" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">изменённое состояние</text>
-<rect x="45" y="499" width="16" height="16" fill="black"/>
-<text x="85" y="514" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">действие</text>
-<circle cx="53" cy="555" r="10" fill="white" stroke="black" stroke-width="2"/>
-<text x="85" y="562" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">событие или условие</text>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="userSpaceOnUse">
+      <path d="M0 0 L10 4 L0 8 Z" fill="black" />
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="white" />
+  <polyline points="130.00,100.00 218.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="382.00,100.00 458.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="622.00,100.00 718.00,100.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="800.00,182.00 800.00,238.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="728.01,359.27 585.50,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="545.49,388.23 578.00,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="580.00,443.00 580.00,468.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="872.35,358.59 1019.38,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="1045.83,394.54 1026.38,437.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="1024.86,443.00 1023.72,468.08" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="1102.00,550.00 1170.00,550.00 1170.00,210.00 930.00,210.00 862.60,267.03" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="580.00,632.00 580.00,698.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="506.08,815.48 336.25,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="311.54,855.69 328.75,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="330.00,903.00 330.00,928.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="654.70,813.83 838.38,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="865.83,854.54 846.38,897.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="844.86,903.00 843.72,928.08" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="922.00,1010.00 1120.00,1010.00 1120.00,665.00 710.00,665.00 641.42,725.67" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="330.00,1092.00 330.00,1128.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="412.00,1210.00 498.00,1210.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="662.00,1210.00 738.00,1210.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="902.00,1210.00 978.00,1210.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="1060.00,1292.00 1060.00,1368.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="978.00,1450.00 902.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="738.00,1450.00 662.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="498.00,1450.00 412.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <polyline points="248.00,1450.00 130.00,1450.00" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)" />
+  <rect x="450" y="437" width="260" height="6" fill="black" />
+  <rect x="910" y="437" width="230" height="6" fill="black" />
+  <rect x="200" y="897" width="260" height="6" fill="black" />
+  <rect x="710" y="897" width="270" height="6" fill="black" />
+  <circle cx="90" cy="100" r="40" stroke="black" stroke-width="2" fill="white" />
+  <polygon points="78,90 102,90 90,112" fill="black" />
+  <text x="90" y="167" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="black">Начало</text>
+  <circle cx="300" cy="100" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="300" cy="53" r="8" fill="black" />
+  <text x="300" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₁</text>
+  <circle cx="540" cy="100" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="532" y="45" width="16" height="16" fill="black" />
+  <text x="540" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₁</text>
+  <circle cx="800" cy="100" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="792" y="45" width="16" height="16" fill="black" />
+  <text x="800" y="113" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₂</text>
+  <circle cx="800" cy="320" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="800" cy="273" r="8" fill="black" />
+  <text x="800" y="333" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₂</text>
+  <circle cx="500" cy="320" r="82" stroke="black" stroke-width="2" fill="white" />
+  <text x="500" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">p₁</text>
+  <circle cx="1080" cy="320" r="82" stroke="black" stroke-width="2" fill="white" />
+  <text x="1080" y="325" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">¬p₁</text>
+  <circle cx="1020" cy="550" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="1012" y="495" width="16" height="16" fill="black" />
+  <text x="1020" y="563" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₃</text>
+  <circle cx="580" cy="550" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="572" y="495" width="16" height="16" fill="black" />
+  <text x="580" y="563" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₄</text>
+  <circle cx="580" cy="780" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="580" cy="733" r="8" fill="black" />
+  <text x="580" y="793" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₃</text>
+  <circle cx="280" cy="780" r="82" stroke="black" stroke-width="2" fill="white" />
+  <text x="280" y="785" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">p₂</text>
+  <circle cx="900" cy="780" r="82" stroke="black" stroke-width="2" fill="white" />
+  <text x="900" y="785" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">¬p₂</text>
+  <circle cx="840" cy="1010" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="832" y="955" width="16" height="16" fill="black" />
+  <text x="840" y="1023" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₅</text>
+  <circle cx="330" cy="1010" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="322" y="955" width="16" height="16" fill="black" />
+  <text x="330" y="1023" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₆</text>
+  <circle cx="330" cy="1210" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="330" cy="1163" r="8" fill="black" />
+  <text x="330" y="1223" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₄</text>
+  <circle cx="580" cy="1210" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="572" y="1155" width="16" height="16" fill="black" />
+  <text x="580" y="1223" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₇</text>
+  <circle cx="820" cy="1210" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="820" cy="1163" r="8" fill="black" />
+  <text x="820" y="1223" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₅</text>
+  <circle cx="1060" cy="1210" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="1052" y="1155" width="16" height="16" fill="black" />
+  <text x="1060" y="1223" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₈</text>
+  <circle cx="1060" cy="1450" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="1052" y="1395" width="16" height="16" fill="black" />
+  <text x="1060" y="1463" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₉</text>
+  <circle cx="820" cy="1450" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="812" y="1395" width="16" height="16" fill="black" />
+  <text x="820" y="1463" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₁₀</text>
+  <circle cx="580" cy="1450" r="82" stroke="black" stroke-width="2" fill="white" />
+  <rect x="572" y="1395" width="16" height="16" fill="black" />
+  <text x="580" y="1463" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">e₁₁</text>
+  <circle cx="330" cy="1450" r="82" stroke="black" stroke-width="2" fill="white" />
+  <circle cx="330" cy="1403" r="8" fill="black" />
+  <text x="330" y="1463" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" fill="black">s₆</text>
+  <circle cx="90" cy="1450" r="40" stroke="black" stroke-width="2" fill="white" />
+  <polygon points="78,1460 102,1460 90,1438" fill="black" />
+  <text x="90" y="1517" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="black">Конец</text>
+  <text x="35" y="270" text-anchor="start" font-family="Arial, sans-serif" font-size="23" fill="black">Условные обозначения</text>
+  <polygon points="41,305 65,305 53,327" fill="black" />
+  <text x="85" y="322" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">начало процесса</text>
+  <polygon points="41,373 65,373 53,351" fill="black" />
+  <text x="85" y="370" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">конец процесса</text>
+  <circle cx="53" cy="411" r="8" fill="black" />
+  <text x="85" y="418" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">устойчивое состояние</text>
+  <circle cx="45" cy="459" r="8" fill="black" />
+  <circle cx="61" cy="459" r="8" fill="black" />
+  <text x="85" y="466" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">изменённое состояние</text>
+  <rect x="45" y="499" width="16" height="16" fill="black" />
+  <text x="85" y="514" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">действие</text>
+  <circle cx="53" cy="555" r="10" fill="white" stroke="black" stroke-width="2" />
+  <text x="85" y="562" text-anchor="start" font-family="Arial, sans-serif" font-size="21" fill="black">событие или условие</text>
 </svg>
