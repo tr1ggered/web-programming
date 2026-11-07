@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1600" viewBox="0 0 1200 1600">
+<defs><marker id="arrow" markerWidth="10" markerHeight="8" refX="9" refY="4" orient="auto" markerUnits="userSpaceOnUse"><path d="M0 0 L10 4 L0 8 Z" fill="black"/></marker></defs>
+<rect width="100%" height="100%" fill="white"/>
+<path d="M130.0,100.0 L215.0,100.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M385.0,100.0 L455.0,100.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M625.0,100.0 L715.0,100.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M885.0,100.0 L975.0,100.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1060.0,185.0 L1060.0,255.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M975.0,340.0 L885.0,340.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M715.0,340.0 L625.0,340.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M540.0,425.0 L540.0,495.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M625.0,580.0 L715.0,580.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M800.0,665.0 L800.0,735.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M725.3788763022774,860.7024311078487 L585.5,937.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M547.1495166791444,890.7242750187168 L578.0,937.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M875.0,860.0 L1019.375,937.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1044.5843496080768,897.2705099460142 L1026.375,937.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M580.0,943.0 L580.0,965.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M580.0,1135.0 L580.0,1175.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M580.0,1345.0 L580.0,1385.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M665.0,1470.0 L810.0,1470.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1024.8636363636363,943.0 L1023.8596511780853,965.0876740821245" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M1020.0,1135.0 L1020.0,1175.0" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<path d="M966.518150563223,1326.0658140101364 L875.1679291467186,1438.9102051717007" fill="none" stroke="black" stroke-width="2" marker-end="url(#arrow)"/>
+<rect x="450" y="937" width="260" height="6"/>
+<rect x="910" y="937" width="230" height="6"/>
+<circle cx="90" cy="100" r="40" fill="white" stroke="black" stroke-width="2"/>
+<polygon points="78,90 102,90 90,112"/>
+<text x="90" y="165" text-anchor="middle" font-family="Arial" font-size="19">Начало</text>
+<circle cx="300" cy="100" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="300" cy="48" r="8"/>
+<text x="300" y="87.0" text-anchor="middle" font-family="Arial" font-size="19">Задан адрес</text>
+<text x="300" y="110.0" text-anchor="middle" font-family="Arial" font-size="19">страницы</text>
+<text x="300" y="133.0" text-anchor="middle" font-family="Arial" font-size="19">по HTTP</text>
+<text x="397" y="25" text-anchor="middle" font-family="Arial" font-size="18">s₁</text>
+<circle cx="540" cy="100" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="532" y="40" width="16" height="16"/>
+<text x="540" y="87.0" text-anchor="middle" font-family="Arial" font-size="19">Браузер:</text>
+<text x="540" y="110.0" text-anchor="middle" font-family="Arial" font-size="19">запросить HTML</text>
+<text x="540" y="133.0" text-anchor="middle" font-family="Arial" font-size="19">по HTTP</text>
+<text x="637" y="25" text-anchor="middle" font-family="Arial" font-size="18">e₁</text>
+<circle cx="800" cy="100" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="792" y="40" width="16" height="16"/>
+<text x="800" y="87.0" text-anchor="middle" font-family="Arial" font-size="19">Сервер:</text>
+<text x="800" y="110.0" text-anchor="middle" font-family="Arial" font-size="19">прочитать HTML;</text>
+<text x="800" y="133.0" text-anchor="middle" font-family="Arial" font-size="19">ответ HTTP 200</text>
+<text x="897" y="25" text-anchor="middle" font-family="Arial" font-size="18">e₂</text>
+<circle cx="1060" cy="100" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="1060" cy="48" r="8"/>
+<text x="1060" y="110.0" text-anchor="middle" font-family="Arial" font-size="19">HTML получен</text>
+<text x="1157" y="25" text-anchor="middle" font-family="Arial" font-size="18">s₂</text>
+<circle cx="1060" cy="340" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="1052" y="280" width="16" height="16"/>
+<text x="1060" y="327.0" text-anchor="middle" font-family="Arial" font-size="19">Браузер:</text>
+<text x="1060" y="350.0" text-anchor="middle" font-family="Arial" font-size="19">разобрать HTML,</text>
+<text x="1060" y="373.0" text-anchor="middle" font-family="Arial" font-size="19">найти путь фото</text>
+<text x="1157" y="265" text-anchor="middle" font-family="Arial" font-size="18">e₃</text>
+<circle cx="800" cy="340" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="792" y="280" width="16" height="16"/>
+<text x="800" y="327.0" text-anchor="middle" font-family="Arial" font-size="19">Браузер:</text>
+<text x="800" y="350.0" text-anchor="middle" font-family="Arial" font-size="19">запросить фото</text>
+<text x="800" y="373.0" text-anchor="middle" font-family="Arial" font-size="19">по HTTP</text>
+<text x="897" y="265" text-anchor="middle" font-family="Arial" font-size="18">e₄</text>
+<circle cx="540" cy="340" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="532" y="280" width="16" height="16"/>
+<text x="540" y="327.0" text-anchor="middle" font-family="Arial" font-size="19">Сервер:</text>
+<text x="540" y="350.0" text-anchor="middle" font-family="Arial" font-size="19">прочитать фото;</text>
+<text x="540" y="373.0" text-anchor="middle" font-family="Arial" font-size="19">ответ HTTP 200</text>
+<text x="637" y="265" text-anchor="middle" font-family="Arial" font-size="18">e₅</text>
+<circle cx="540" cy="580" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="540" cy="528" r="8"/>
+<text x="540" y="590.0" text-anchor="middle" font-family="Arial" font-size="19">Фото получено</text>
+<text x="637" y="505" text-anchor="middle" font-family="Arial" font-size="18">s₃</text>
+<circle cx="800" cy="580" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="792" y="520" width="16" height="16"/>
+<text x="800" y="567.0" text-anchor="middle" font-family="Arial" font-size="19">Браузер:</text>
+<text x="800" y="590.0" text-anchor="middle" font-family="Arial" font-size="19">отобразить</text>
+<text x="800" y="613.0" text-anchor="middle" font-family="Arial" font-size="19">страницу</text>
+<text x="897" y="505" text-anchor="middle" font-family="Arial" font-size="18">e₆</text>
+<circle cx="800" cy="820" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="800" cy="768" r="8"/>
+<text x="800" y="818.5" text-anchor="middle" font-family="Arial" font-size="19">Страница</text>
+<text x="800" y="841.5" text-anchor="middle" font-family="Arial" font-size="19">отображена</text>
+<text x="897" y="745" text-anchor="middle" font-family="Arial" font-size="18">s₄</text>
+<circle cx="500" cy="820" r="85" fill="white" stroke="black" stroke-width="2"/>
+<text x="500" y="818.5" text-anchor="middle" font-family="Arial" font-size="19">Пользователь</text>
+<text x="500" y="841.5" text-anchor="middle" font-family="Arial" font-size="19">решил написать</text>
+<text x="597" y="745" text-anchor="middle" font-family="Arial" font-size="18">p₁</text>
+<circle cx="1080" cy="820" r="85" fill="white" stroke="black" stroke-width="2"/>
+<text x="1080" y="818.5" text-anchor="middle" font-family="Arial" font-size="19">Просмотр</text>
+<text x="1080" y="841.5" text-anchor="middle" font-family="Arial" font-size="19">без письма</text>
+<text x="1177" y="745" text-anchor="middle" font-family="Arial" font-size="18">¬p₁</text>
+<circle cx="580" cy="1050" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="572" y="990" width="16" height="16"/>
+<text x="580" y="1037.0" text-anchor="middle" font-family="Arial" font-size="19">Нажать mailto;</text>
+<text x="580" y="1060.0" text-anchor="middle" font-family="Arial" font-size="19">передать URI</text>
+<text x="580" y="1083.0" text-anchor="middle" font-family="Arial" font-size="19">обработчику</text>
+<text x="677" y="975" text-anchor="middle" font-family="Arial" font-size="18">e₇</text>
+<circle cx="580" cy="1260" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="572" y="1200" width="16" height="16"/>
+<text x="580" y="1247.0" text-anchor="middle" font-family="Arial" font-size="19">Обработчик:</text>
+<text x="580" y="1270.0" text-anchor="middle" font-family="Arial" font-size="19">открыть черновик</text>
+<text x="580" y="1293.0" text-anchor="middle" font-family="Arial" font-size="19">с адресатом</text>
+<text x="677" y="1185" text-anchor="middle" font-family="Arial" font-size="18">e₈</text>
+<circle cx="580" cy="1470" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="580" cy="1418" r="8"/>
+<text x="580" y="1468.5" text-anchor="middle" font-family="Arial" font-size="19">Черновик</text>
+<text x="580" y="1491.5" text-anchor="middle" font-family="Arial" font-size="19">письма открыт</text>
+<text x="677" y="1395" text-anchor="middle" font-family="Arial" font-size="18">s₅</text>
+<circle cx="1020" cy="1050" r="85" fill="white" stroke="black" stroke-width="2"/>
+<rect x="1012" y="990" width="16" height="16"/>
+<text x="1020" y="1048.5" text-anchor="middle" font-family="Arial" font-size="19">Завершить</text>
+<text x="1020" y="1071.5" text-anchor="middle" font-family="Arial" font-size="19">просмотр</text>
+<text x="1117" y="975" text-anchor="middle" font-family="Arial" font-size="18">e₉</text>
+<circle cx="1020" cy="1260" r="85" fill="white" stroke="black" stroke-width="2"/>
+<circle cx="1020" cy="1208" r="8"/>
+<text x="1020" y="1258.5" text-anchor="middle" font-family="Arial" font-size="19">Просмотр</text>
+<text x="1020" y="1281.5" text-anchor="middle" font-family="Arial" font-size="19">завершён</text>
+<text x="1117" y="1185" text-anchor="middle" font-family="Arial" font-size="18">s₆</text>
+<circle cx="850" cy="1470" r="40" fill="white" stroke="black" stroke-width="2"/>
+<polygon points="838,1480 862,1480 850,1458"/>
+<text x="850" y="1535" text-anchor="middle" font-family="Arial" font-size="19">Конец</text>
+<text x="35" y="280" text-anchor="start" font-family="Arial" font-size="23">Условные обозначения</text>
+<polygon points="43,320 67,320 55,342"/>
+<text x="85" y="337" text-anchor="start" font-family="Arial" font-size="21">начало процесса</text>
+<polygon points="43,388 67,388 55,366"/>
+<text x="85" y="385" text-anchor="start" font-family="Arial" font-size="21">конец процесса</text>
+<circle cx="55" cy="426" r="8"/>
+<text x="85" y="433" text-anchor="start" font-family="Arial" font-size="21">состояние s</text>
+<rect x="47" y="466" width="16" height="16"/>
+<text x="85" y="481" text-anchor="start" font-family="Arial" font-size="21">действие e</text>
+<circle cx="55" cy="522" r="10" fill="white" stroke="black" stroke-width="2"/>
+<text x="85" y="529" text-anchor="start" font-family="Arial" font-size="21">событие или условие p</text>
+<text x="35" y="600" text-anchor="start" font-family="Arial" font-size="21">¬p — отрицание условия</text>
+</svg>
